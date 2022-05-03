@@ -46,9 +46,9 @@ You can have this application up and running with just a few steps because it ha
 
 <ol> 
 <li>Clone this repo</li>
-  <li>Once you have the repo, you need to install its dependencies. So using a terminal, move into the root directory of the project and execute npm install to install the dependencies of the Node.js server and then run npm run client-install to install the dependencies of the frontend.</li>
+  <li>Once you have the repo, you need to install its dependencies. So using a terminal, move into the root directory of the project and execute <code>npm install</code> to install the dependencies of the Node.js server and then run <code>npm run client-install</code> to install the dependencies of the frontend.</li>
   <li>This application uses MongoDB as its Database. So make sure you have it installed. otherwise you can use mongoAtlas a cloud version of mongodb</li>
-  <li>Finally, all you have to do is simply run npm run dev. If this command fails, try installing the package concurrently globally by running npm install -g concurrently and then running the dev command.</li>
+  <li>Finally, all you have to do is simply <code>run npm run dev</code>. If this command fails, try installing the package concurrently globally by running <code>npm install -g concurrently</code> and then running the <code>dev</code> command.</li>
   <li>The frontend of the application will be automatically opened in your web browser and you can test it away.</li>
 </ol>
 
