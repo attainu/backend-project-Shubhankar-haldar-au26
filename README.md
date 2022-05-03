@@ -17,10 +17,19 @@ Real-time updates to the user conversation messages
 Screenshots
 
 Register
-![Screenshot (59)](https://user-images.githubusercontent.com/84980055/166415310-58234571-e33e-49ea-ae73-bea774f0b417.png)
+![register](https://user-images.githubusercontent.com/84980055/166416887-0f2c2a21-77ec-4f55-b743-b01a3a4450d0.png)
+
+
+Select Avatar
+![avatar (2)](https://user-images.githubusercontent.com/84980055/166417182-9bfadb03-7177-4509-b5bd-b319664c3e68.png)
 
 
 Login
-![Screenshot (61)](https://user-images.githubusercontent.com/84980055/166415444-a9b3c1fc-f1d9-4dc1-9786-3e9dfa9ea290.png)
+![login](https://user-images.githubusercontent.com/84980055/166417030-35703d9f-cfef-478f-a170-da9497723151.png)
+
+Private Chat
+![private](https://user-images.githubusercontent.com/84980055/166417311-5f89187e-eb58-4e2e-8822-f395e4a97d5f.png)
+
+
 
 
