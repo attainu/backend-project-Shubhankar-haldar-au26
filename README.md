@@ -1,4 +1,4 @@
-<h1>Full-stack Chat Application</h1>
+<h1>Mern-stack Chat Application</h1>
 
 <h3>Introduction</h3>
 
